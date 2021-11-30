@@ -116,14 +116,14 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #f7f7f7;
+  background-color: #5f5d60;
   text-align: center;
 }
 
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
-  color: #5f5d60;
+  color: #f7f7f7;
 }
 
 .heading h2 {
